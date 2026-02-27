@@ -7,7 +7,7 @@
 */
 
 group          = "com.etendoerp"
-version        = "1.0.0"
+version        = "1.0.1"
 description    = "Provides a read-only view to identify expired sales orders that are not fully invoiced."
 ext.artifact   = "expiredsalesorders"
 ext.repository = "https://maven.pkg.github.com/lauPG01/expiredsalesorders"
